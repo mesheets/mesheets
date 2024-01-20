@@ -10,3 +10,9 @@
 | [**PdfDroplet**](https://github.com/mesheets/PAF-PdfDroplet) | Takes a PDF and generates a new one, with the pages combined and reordered, ready for saving & printing as booklets/calendars -or- cutting & stacking. | [PortableApps.com Installer v2.4.1002.0](https://github.com/mesheets/PAF-PdfDroplet/releases/download/v2.4.1002/PdfDropletPortable_2.4.1002.0_Release_1.paf.exe) |
 | [**PDFsam**](https://github.com/mesheets/PAF-PDFsam) | A desktop application to split, merge, mix, rotate PDF files and extract pages. | [PortableApps.com Installer Releases](https://github.com/mesheets/PAF-PDFsam/releases) |
 
+#### Model Railroad
+* [Index of Projects, References, and Resources](https://github.com/mesheets/ThrottleLibrary.Client)
+* [Railroad Automation fork](https://github.com/mesheets/RRAuto): .NET-based model railroad command and control suite for LocoNet
+* [IoTT Stick fork](https://github.com/mesheets/IoTTStick): Han Tanner’s Internet of Toy Trains projects
+* [WiThrottle Protocol fork](https://github.com/mesheets/WiThrottleProtocol-Cpp): WiThrottle network protocol C++ implementation
+* [SRCP.NET fork](https://github.com/mesheets/SRCP.NET): .NET-based SRCP (Simple Railroad Command Protocol) client
