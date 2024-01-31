@@ -11,8 +11,10 @@
 | [**PDFsam**](https://github.com/mesheets/PAF-PDFsam) | A desktop application to split, merge, mix, rotate PDF files and extract pages. | [PortableApps.com Installer Releases](https://github.com/mesheets/PAF-PDFsam/releases) |
 
 #### Model Railroad
-* [Index of Projects, References, and Resources](https://github.com/mesheets/ThrottleLibrary.Client)
-* [Railroad Automation fork](https://github.com/mesheets/RRAuto): .NET-based model railroad command and control suite for LocoNet
-* [IoTT Stick fork](https://github.com/mesheets/IoTTStick): Han Tanner’s Internet of Toy Trains projects
-* [WiThrottle Protocol fork](https://github.com/mesheets/WiThrottleProtocol-Cpp): WiThrottle network protocol C++ implementation
-* [SRCP.NET fork](https://github.com/mesheets/SRCP.NET): .NET-based SRCP (Simple Railroad Command Protocol) client
+| Project | Description |
+| ------- | ----------- |
+| [Index of Projects, References, and Resources](https://github.com/mesheets/ThrottleLibrary.Client) | Information covering various tech-related model railroad projects and ideas |
+| [Railroad Automation fork](https://github.com/mesheets/RRAuto) | .NET-based model railroad command and control suite for LocoNet |
+| [IoTT Stick fork](https://github.com/mesheets/IoTTStick) | Han Tanner’s Internet of Toy Trains projects |
+| [WiThrottle Protocol fork](https://github.com/mesheets/WiThrottleProtocol-Cpp) | WiThrottle network protocol C++ implementation |
+| [SRCP.NET fork](https://github.com/mesheets/SRCP.NET) | .NET-based SRCP (Simple Railroad Command Protocol) client |
