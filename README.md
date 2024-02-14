@@ -1,7 +1,9 @@
-## Welcome! 👋
+# Welcome! 👋
 
-### Repositories of Interest
-#### Portable Apps and Utilities
+## Key Projects
+### [![BrickBot](https://avatars.githubusercontent.com/u/17673949?size=25) The BrickBot Organization](https://brickbot.github.io/)
+
+### ⚙ Portable Apps and Utilities
 | Project | Description | Direct Download |
 | ------- | ----------- | --------------- |
 | [**APO USB Autorun**](https://github.com/mesheets/APO-UsbAutorun) | Enables adding autorun functionality for USB drives | [Windows Installer v1.6.2.0](https://github.com/mesheets/APO-UsbAutorun/releases/download/v1.6.2.0/APO_UsbAutorun-1.6.2.0.exe) |
@@ -10,7 +12,7 @@
 | [**PdfDroplet**](https://github.com/mesheets/PAF-PdfDropletPortable) | Takes a PDF and generates a new one, with the pages combined and reordered, ready for saving & printing as booklets/calendars -or- cutting & stacking. | [PortableApps.com Installer v2.4.1002.0](https://github.com/mesheets/PAF-PdfDropletPortable/releases/download/v2.4.1002/PdfDropletPortable_2.4.1002.0_Release_1.paf.exe) |
 | [**PDFsam**](https://github.com/mesheets/PAF-PDFsamPortable) | A desktop application to split, merge, mix, rotate PDF files and extract pages. | [PortableApps.com Installer Releases](https://github.com/mesheets/PAF-PDFsamPortable/releases) |
 
-#### Model Railroad
+### 🚂 Model Railroad
 | Project | Description |
 | ------- | ----------- |
 | [Index of Projects, References, and Resources](https://github.com/mesheets/ThrottleLibrary.Client) | Information covering various tech-related model railroad projects and ideas |
