@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-## Key Projects
+## Main Projects
 ### [![BrickBot](https://avatars.githubusercontent.com/u/17673949?size=25) The BrickBot Organization](https://brickbot.github.io/)
 
 ### ⚙ Portable Apps and Utilities
