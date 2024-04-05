@@ -11,6 +11,7 @@
 | [**PDF Scissors**](https://github.com/mesheets/PAF-PdfScissorsPortable) | Split pages or crop / drop margin / whitespace in PDF files. Optionally auto crop all pages. Make a nice, cropped PDF for ebook readers. | [PortableApps.com Installer v0.0.2.1](https://github.com/mesheets/PAF-PdfScissorsPortable/releases/download/v0.0.2.1-paf-r1/PdfScissorsPortable_0.0.2.1_Release_1.paf.exe) |
 | [**PdfDroplet**](https://github.com/mesheets/PAF-PdfDropletPortable) | Takes a PDF and generates a new one, with the pages combined and reordered, ready for saving & printing as booklets/calendars -or- cutting & stacking. | [PortableApps.com Installer v2.4.1002.0](https://github.com/mesheets/PAF-PdfDropletPortable/releases/download/v2.4.1002/PdfDropletPortable_2.4.1002.0_Release_1.paf.exe) |
 | [**PDFsam**](https://github.com/mesheets/PAF-PDFsamPortable) | A desktop application to split, merge, mix, rotate PDF files and extract pages. | [PortableApps.com Installer Releases](https://github.com/mesheets/PAF-PDFsamPortable/releases) |
+| [**Normalize**](https://github.com/mesheets/PAF-NormalizePortable) | A PCM WAV normalizer utility. | [PortableApps.com Installer v0.253.0.0](https://github.com/mesheets/PAF-NormalizePortable/releases/download/v0.253/NormalizePortable_0.253.0.0_Release_1.paf.exe) |
 
 ### 🚂 Model Railroad
 | Project | Description |
