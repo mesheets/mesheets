@@ -21,3 +21,9 @@
 | [IoTT Stick fork](https://github.com/mesheets/IoTTStick) | Han Tanner’s Internet of Toy Trains projects |
 | [WiThrottle Protocol fork](https://github.com/mesheets/WiThrottleProtocol-Cpp) | WiThrottle network protocol C++ implementation |
 | [SRCP.NET fork](https://github.com/mesheets/SRCP.NET) | .NET-based SRCP (Simple Railroad Command Protocol) client |
+
+### 🎚🎛 Audio
+| Project | Description |
+| ------- | ----------- |
+| [Normalize](https://github.com/mesheets/NormalizeCLI) | A PCM WAV normalizer command-line utility. |
+| [Normalize GUI](https://github.com/mesheets/NormalizeGUI) | A GUI for the [Normalize](https://github.com/mesheets/NormalizeCLI) command-line utility. |
