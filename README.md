@@ -1,7 +1,7 @@
 # Welcome! 👋
 
 ## Main Projects
-### [![BrickBot](https://avatars.githubusercontent.com/u/17673949?size=25) The BrickBot Organization](https://brickbot.github.io/)
+### [![BrickBot](https://avatars.githubusercontent.com/u/17673949?size=25) The BrickBot Organization: The Hub for the LEGO MindStorms RCX](https://brickbot.github.io/)
 
 ### ⚙ Portable Apps and Utilities
 | Project | Description | Direct Download |
