@@ -12,6 +12,8 @@
 | [**PdfDroplet**](https://github.com/mesheets/PAF-PdfDropletPortable) | Takes a PDF and generates a new one, with the pages combined and reordered, ready for saving & printing as booklets/calendars -or- cutting & stacking. | [PortableApps.com Installer v2.4.1002.0](https://github.com/mesheets/PAF-PdfDropletPortable/releases/download/v2.4.1002/PdfDropletPortable_2.4.1002.0_Release_1.paf.exe) |
 | [**PDFsam**](https://github.com/mesheets/PAF-PDFsamPortable) | A desktop application to split, merge, mix, rotate PDF files and extract pages. | [PortableApps.com Installer Releases](https://github.com/mesheets/PAF-PDFsamPortable/releases) |
 | [**Normalize**](https://github.com/mesheets/PAF-NormalizePortable) | A PCM WAV normalizer utility. | [PortableApps.com Installer v0.253.0.0 Release 2](https://github.com/mesheets/PAF-NormalizePortable/releases/download/v0.253-0.2.1-2/NormalizePortable_0.253.0.0_Release_2.paf.exe) |
+| [**Cygwin Setup**](https://github.com/mesheets/PAF-CygwinSetupPortable/) | Setup and update support for a portable Cygwin installation.  Designed to be used with Cygwin Console linked below. | [PortableApps.com Installer Releases](https://github.com/mesheets/PAF-CygwinSetupPortable/releases) |
+| [**Cygwin Console**](https://github.com/mesheets/PAF-CygwinConsolePortable) | Console for a portable Cygwin installation.  Designed to be used with Cygwin Setup linked above. | [PortableApps.com Installer Releases](https://github.com/mesheets/PAF-CygwinConsolePortable/releases) |
 
 ### 🚂 Model Railroad
 | Project | Description |
