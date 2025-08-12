@@ -1,7 +1,10 @@
-# Welcome! 👋
+Welcome! 👋
+===========
 
-## Main Projects
-### [![BrickBot](https://avatars.githubusercontent.com/u/17673949?size=25) The BrickBot Organization: The Hub for the LEGO MindStorms RCX](https://brickbot.github.io/)
+Main Projects
+-------------
+### [![BrickBot](https://avatars.githubusercontent.com/u/17673949?size=20) The BrickBot Organization: The Hub for the LEGO MindStorms RCX](https://brickbot.github.io/)
+Visit for NQC, the BrickOS-Bibo alternative firmware, the BrickEmu emulator, the h8300-hitachi-coff toolchain, and much _much_ more!
 
 ### ⚙ Portable Apps and Utilities
 | Project | Description | Direct Download |
@@ -15,6 +18,16 @@
 | [**Cygwin Setup**](https://github.com/mesheets/PAF-CygwinSetupPortable/) | Setup and update support for a portable Cygwin installation.  Designed to be used with Cygwin Console linked below. | [PortableApps.com Installer Releases](https://github.com/mesheets/PAF-CygwinSetupPortable/releases) |
 | [**Cygwin Console**](https://github.com/mesheets/PAF-CygwinConsolePortable) | Console for a portable Cygwin installation.  Designed to be used with Cygwin Setup linked above. | [PortableApps.com Installer Releases](https://github.com/mesheets/PAF-CygwinConsolePortable/releases) |
 
+### ![Cygwin](https://avatars.githubusercontent.com/u/17905883?size=20) Cygwin
+In addition to the [**Cygwin Setup**](https://github.com/mesheets/PAF-CygwinSetupPortable/)
+and [**Cygwin Console**](https://github.com/mesheets/PAF-CygwinConsolePortable)
+portable apps listed in the [Portable Apps and Utilities](#-portable-apps-and-utilities) section,
+the following are also available:
+
+| Project | Description |
+| ------- | ----------- |
+| [Cygport Workflow Template](https://github.com/mesheets/Cygport-Workflow-Template) | A template repository designed to automatically build Cygwin Cygport package files |
+
 ### 🚂 Model Railroad
 | Project | Description |
 | ------- | ----------- |
@@ -27,5 +40,8 @@
 ### 🎚🎛 Audio
 | Project | Description |
 | ------- | ----------- |
-| [Normalize](https://github.com/mesheets/NormalizeCLI) | A PCM WAV normalizer command-line utility. |
-| [Normalize GUI](https://github.com/mesheets/NormalizeGUI) | A GUI for the [Normalize](https://github.com/mesheets/NormalizeCLI) command-line utility. |
+| [Normalize](https://github.com/mesheets/NormalizeCLI) | A PCM WAV normalizer command-line utility. ¹ |
+| [Normalize GUI](https://github.com/mesheets/NormalizeGUI) | A GUI for the [Normalize](https://github.com/mesheets/NormalizeCLI) command-line utility. ¹ |
+
+¹ A portable version is also available and is listed under the
+[Portable Apps and Utilities](#-portable-apps-and-utilities) section.
