@@ -27,6 +27,7 @@ the following are also available:
 | Project | Description |
 | ------- | ----------- |
 | [Cygport Workflow Template](https://github.com/mesheets/Cygport-Workflow-Template) | A template repository designed to automatically build Cygwin Cygport package files.  For an example usage of this template, see [hello.cygport](https://github.com/mesheets/hello.cygport). |
+| [Hello Cygport](https://github.com/mesheets/hello.cygport) | An example Cygwin Cygport package based on [GNU Hello](https://www.gnu.org/software/hello/). |
 
 ### 🚂 Model Railroad
 | Project | Description |
