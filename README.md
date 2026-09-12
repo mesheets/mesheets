@@ -46,3 +46,8 @@ the following are also available:
 
 ¹ A portable version is also available and is listed under the
 [Portable Apps and Utilities](#-portable-apps-and-utilities) section.
+
+### 🔏 Archives
+| Project | Description |
+| ------- | ----------- |
+| [Windows Archive](https://github.com/mesheets/Windows-Archive) | An archive of software for legacy Windows versions |
